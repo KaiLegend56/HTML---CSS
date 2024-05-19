@@ -1,0 +1,13 @@
+ <div class="video-preview">
+        <img class="thumbnail2" src="thumbnail/thumbnail-2.webp">
+      
+        <p class="title2">   
+            Try Not To Laugh Challenge #9
+        </p>
+        <p class="author2">
+            Markiplier
+        </p>
+        <p class="views2">
+            19M views · 4 years ago
+        </p>  
+        </div>  
